@@ -1,0 +1,5 @@
+- 👋 Salut, Je suis @FrenchDevelopper
+- 👀 Je suis passionner par le : HTMl, CSS, JS, Py, Bat, Vbs, Exe, Sh, SQL
+- 🌱 Je programme actuellement un automate pour console
+- 💞️ Je recherche des partenaire de developpement
+- 📫 Me contacter via discord : Raphael5916-Raph#0045
